@@ -1,0 +1,48 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {  
+    .ten {
+        display: none;
+    }
+ /* #nav-bar nav {
+   border: none;
+ } */
+ #nav-bar a:link,
+ a:visited {
+    padding: 10px;
+margin-right: 1rem;
+padding-bottom: 20px;
+ }
+ #nav-bar {
+    margin-top: 1rem;
+ }
+ #personal-info {
+    font-size: 16px;
+    padding-right: 40px;
+ }
+ #target {
+    font-size: 16px;
+ }
+ .certi {
+   flex-direction: column;
+   gap: 30px;
+ }
+ .project-content{
+   font-size: 15px;
+ }
+ .describe {
+   font-size: 15px;
+   padding: 10px 5px;
+ }
+ .describe span {
+   margin-right: 10px !important;
+ }
+ td {
+   font-size: 12px;
+ }
+ tr td:first-child {
+   width: 30%;
+ }
+.social-media {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+}
